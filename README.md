@@ -24,12 +24,12 @@ In this GitHub repository I will lead you through some proyects that I have done
 ![Django](https://img.shields.io/badge/-Django-fff?&logo=django&logoColor=black)
 ![Go](https://img.shields.io/badge/-Go-fff?&logo=go)
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-fff?&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS-fff?&logo=css3&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-fff?&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-fff?&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-fff?&logo=github&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
-![Bash](https://img.shields.io/badge/-Bash-fff?&logo=gnubash)
+![Bash](https://img.shields.io/badge/-GNUBash-fff?&logo=gnubash)
 
 -Python
 -Django
