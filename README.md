@@ -29,7 +29,7 @@ In this GitHub repository I will lead you through some proyects that I have done
 ![GitHub](https://img.shields.io/badge/-GitHub-fff?&logo=github)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
-![Bash](https://img.shields.io/badge/-Bash-fff?&logo=bash)
+![Bash](https://img.shields.io/badge/-Bash-fff?&logo=gnubash)
 
 -Python
 -Django
