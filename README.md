@@ -19,7 +19,7 @@ In this GitHub repository I will lead you through some proyects that I have done
 
 ### Languages and Frameworks
 
-[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)]
+![Python](https://img.shields.io/badge/Python-v3.7-blue&logo=python)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
 
