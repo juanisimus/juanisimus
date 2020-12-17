@@ -18,13 +18,45 @@ I love to learn new technologies, I have been learning a broad spectrum of knowl
 In this GitHub repository I will lead you through some proyects that I have done to shead a light about me.
 
 Languages and Frameworks
+-Python
+-Django
+-Git
+-GitHub
+-Go
+-MySQL
+-PostgreSQL
+-Scrapy
+-Selenium
+-HTML
+-CSS
+-
+<!--BASH, POSTMAN -->
 
-TOOL
+Languages
+ENGLISH (IELTS7.0, C1)
+
 
 PROJECTS
+WEBSITES
+-definitivo html
+-grid
+-clon website
+
+PYTHON
+-Scrapy
+-Selenium
+-Django(pildoras, platzigram, djangogirls)
+-Algoritmos
+-webscraping (scrapy, selenium, david... checar)
+
+GO
+-practicas
 
 
 CONTACT INFORMATION
+-linkedin
+-gmail
+-twitter
 
 
 <!--
