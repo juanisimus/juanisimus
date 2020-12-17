@@ -19,11 +19,17 @@ In this GitHub repository I will lead you through some proyects that I have done
 
 ### Languages and Frameworks
 
-![Python](https://img.shields.io/badge/Python-v3.7-blue?&logo=python&style=flat&logo=appveyor)
-![Python](https://img.shields.io/badge/-Python-fff?&logo=python)
-![Python](https://img.shields.io/badge/-Django-fff?&logo=django&logoColor=black)
 
+![Python](https://img.shields.io/badge/-Python-fff?&logo=python)
+![Django](https://img.shields.io/badge/-Django-fff?&logo=django&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-fff?&logo=go)
+![HTML](https://img.shields.io/badge/-HTML-fff?&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-fff?&logo=css3)
+![Git](https://img.shields.io/badge/-Git-fff?&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-fff?&logo=github)
+![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
+![Bash](https://img.shields.io/badge/-Bash-fff?&logo=bash)
 
 -Python
 -Django
