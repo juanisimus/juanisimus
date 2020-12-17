@@ -19,6 +19,9 @@ In this GitHub repository I will lead you through some proyects that I have done
 
 ### Languages and Frameworks
 
+
+ <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>
+
 ![Git](https://img.shields.io/badge/-Git-fff?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-fff?&logo=github&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=python)
@@ -28,7 +31,7 @@ In this GitHub repository I will lead you through some proyects that I have done
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
 ![Go](https://img.shields.io/badge/-Go-fff?&logo=go)
-![Bash](https://simpleicons.org/icons/gnubash.svg)
+
 
 -Python
 -Django
