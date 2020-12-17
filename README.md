@@ -17,7 +17,12 @@ I love to learn new technologies, I have been learning a broad spectrum of knowl
 
 In this GitHub repository I will lead you through some proyects that I have done to shead a light about me.
 
-Languages and Frameworks
+### Languages and Frameworks
+
+[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
+
 -Python
 -Django
 -Git
