@@ -1,7 +1,9 @@
+<!--
 <style>
 .language-container {
     display:flex;
     justify-content: space-around;
+style="display:flex;justify-content: space-around;"
 }
 
 figure {
@@ -17,6 +19,7 @@ figcaption {
     justify-content: space-around;
 }
 </style>
+-->
 
 ## **Backend Programmer with Python-Django**
 
@@ -64,7 +67,7 @@ Hi, I'm Daniel! I'm a brand new Backend developer looking for an oportunity to a
 ## **Languages and Frameworks**
 * * *
    
-<div class="language-container">
+<div class="language-container" style="display:flex;justify-content: space-around;">
 <a href="https://git-scm.com/" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="30" height="30"/><figcaption>Git</figcaption></figure></a>
 <a href="https://github.com/" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="30" height="30"/><figcaption>GitHub</figcaption></figure></a>
 <a href="https://www.python.org" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/><figcaption>Python</figcaption></figure></a>
