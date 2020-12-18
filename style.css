@@ -1,0 +1,18 @@
+
+    .language-container {
+        display:flex;
+        justify-content: space-around;
+    }
+
+    figure {
+        margin: 0;
+        padding: 10px 10px;
+        display: inline-block
+    }
+    figcaption {
+        text-align: center;
+    }
+    .contact-container {
+        display:flex;
+        justify-content: space-around;
+    }
