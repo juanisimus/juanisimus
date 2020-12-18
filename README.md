@@ -129,7 +129,7 @@ These section speaks about the proyects that I did to learn programming.
 
 ## **Contact Information**
 ***
-<div class="contact-container">
+<div class="contact-container" style="display:flex;justify-content: space-around;">
 <a href="https://www.linkedin.com/in/daniel-alejandro-salazar-mart%C3%ADnez-29388a63/?locale=en_US" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/><figcaption>LinkedIn</figcaption></figure></a>
 <a href="daniel.salazarop@gmail.com" target="_blank"><figure><img src="https://assets.stickpng.com/images/5847fafdcef1014c0b5e48ce.png" alt="Gmail" width="65" height="50"/><figcaption>Gmail</figcaption></figure></a>
 <a href="https://twitter.com/Alex_Juanisimo" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/twitter/twitter-original.svg" alt="Twitter" width="50" height="50"/><figcaption>Twitter</figcaption></figure></a>
