@@ -131,7 +131,7 @@ These section speaks about the proyects that I did to learn programming.
 ***
 <div class="contact-container" style="display:flex;justify-content: space-around;">
 <a href="https://www.linkedin.com/in/daniel-alejandro-salazar-mart%C3%ADnez-29388a63/?locale=en_US" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/><figcaption>LinkedIn</figcaption></figure></a>
-<a href="daniel.salazarop@gmail.com" target="_blank"><figure><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" alt="Gmail"/></figure></a>
+<a href="mailto:daniel.salazarop@gmail.com" target="_blank"><figure><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" alt="Gmail"/></figure></a>
 <a href="https://twitter.com/Alex_Juanisimo" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/twitter/twitter-original.svg" alt="Twitter" width="50" height="50"/><figcaption>Twitter</figcaption></figure></a>
 <a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/mf-landings/image/isotipoPlatzi-442ccc1186a9806e18c9889cc301ffe1.png" alt="Twitter" width="50" height="50"/><figcaption>Platzi</figcaption></figure></a>
 </div>
