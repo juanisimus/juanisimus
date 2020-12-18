@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 ## **Backend Programmer with Python-Django**
 
 ### **About me.**
@@ -43,25 +44,7 @@ Hi, I'm Daniel! I'm a brand new Backend developer looking for an oportunity to a
 
 ## **Languages and Frameworks**
 * * *
-<style>
-    .language-container {
-        display:flex;
-        justify-content: space-around;
-    }
-
-    figure {
-        margin: 0;
-        padding: 10px 10px;
-        display: inline-block
-    }
-    figcaption {
-        text-align: center;
-    }
-    .contact-container {
-        display:flex;
-        justify-content: space-around;
-    }
-</style>    
+ 
 <div class="language-container">
 <a href="https://git-scm.com/" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="30" height="30"/><figcaption>Git</figcaption></figure></a>
 <a href="https://github.com/" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="30" height="30"/><figcaption>GitHub</figcaption></figure></a>
