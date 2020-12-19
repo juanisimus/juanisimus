@@ -1,27 +1,9 @@
-<!-- <style>
-.language-container {
-    display:flex;
-    justify-content: space-around;
-}
 
-figure {
-    margin: 0;
-    padding: 10px 10px;
-    display: inline-block
-}
-figcaption {
-    text-align: center;
-}
-.contact-container {
-    display:flex;
-    justify-content: space-around;
-}
-</style> -->
 
-## **Backend Programmer with Python-Django**
+<h1 align="center"><strong>Backend Programmer with Python-Django</strong></h1>
+
 
 ### **About me.**
-* * *
 
 Hi, I'm Daniel! I'm a brand new Backend developer looking for an oportunity to apply the knowledge acquired during 2020 mainly in the Platzi platform plus muy previous background as Mechanical Engineer.
 
@@ -84,7 +66,6 @@ Hi, I'm Daniel! I'm a brand new Backend developer looking for an oportunity to a
 In this GitHub repository I will lead you through some proyects that I have done to shead a light about me.
 
 ## **Languages and Frameworks**
-* * *
    
 <div align="center">
 <a href="https://git-scm.com/" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="30" height="30"/><figcaption>Git</figcaption></figure></a>
@@ -121,15 +102,11 @@ In this GitHub repository I will lead you through some proyects that I have done
 - -->
 <!--BASH, POSTMAN -->
 
-## **Languages**
-***
-I spend two years living in Ireland with the aim of learn English in a high level, and I could materialize it with the IELTS certification.
 
-### English IELTS Test score = **7.0** equivalent to **C1**
 
 
 ## **Projects**
-* * *
+
 These section speaks about the proyects that I did to learn programming.
 
 * FRONTENT
@@ -150,7 +127,7 @@ These section speaks about the proyects that I did to learn programming.
 
 
 ## **Contact Information**
-***
+
 <div align="center">
 <a href="https://www.linkedin.com/in/daniel-alejandro-salazar-mart%C3%ADnez-29388a63" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" title="LinkedIn Profile"/></figure></a>
 <a href="mailto:daniel.salazarop@gmail.com" target="_blank" style="padding: 0 10px;"><figure><img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-4-1.png" alt="Gmail" width="70" height="50" title="daniel.salazarop@gmail.com"/></figure></a>
