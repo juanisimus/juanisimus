@@ -153,7 +153,7 @@ These section speaks about the proyects that I did to learn programming.
 ***
 <div align="center">
 <a href="https://www.linkedin.com/in/daniel-alejandro-salazar-mart%C3%ADnez-29388a63" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" title="LinkedIn Profile"/></figure></a>
-<a href="mailto:daniel.salazarop@gmail.com" target="_blank" style="padding: 0 10px;"><figure><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" alt="Gmail" title="daniel.salazarop@gmail.com"/></figure></a>
+<a href="mailto:daniel.salazarop@gmail.com" target="_blank" style="padding: 0 10px;"><figure><img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-4-1.png" alt="Gmail" width="70" height="50" title="daniel.salazarop@gmail.com"/></figure></a>
 <a href="https://twitter.com/Alex_Juanisimo" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/twitter/twitter-original.svg" alt="Twitter" width="50" height="50" title="@Alex_Juanisimo"/></figure></a>
 <a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/mf-landings/image/isotipoPlatzi-442ccc1186a9806e18c9889cc301ffe1.png" alt="Platzi" width="50" height="50" title="Platzi Profile"/></figure></a>
 </div>
