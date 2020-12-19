@@ -65,19 +65,21 @@ Hi, I'm Daniel! I'm a brand new Backend developer looking for an oportunity to a
 ## **Languages and Frameworks**
 * * *
    
-<div>
+
 <a href="https://git-scm.com/" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="30" height="30"/><figcaption>Git</figcaption></figure></a>
 <a href="https://github.com/" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="30" height="30"/><figcaption>GitHub</figcaption></figure></a>
 <a href="https://www.python.org" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/><figcaption>Python</figcaption></figure></a>
 <a href="https://www.djangoproject.com/" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="30" height="30"/><figcaption>Django</figcaption></figure></a>
 <a href="https://es.wikipedia.org/wiki/HTML5" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html" width="30" height="30"/><figcaption>HTML</figcaption></figure></a>
 <a href="https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css" width="30" height="30"/><figcaption>CSS</figcaption></figure></a>
+
+
 <a href="https://www.mysql.com/" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/><figcaption>MySQL</figcaption></figure></a>
 <a href="https://www.postgresql.org/" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/><figcaption>PostgreSQL</figcaption></figure></a>
 <a href="https://golang.org/" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="30" height="30"/><figcaption>Go</figcaption></figure></a>
 <a href="https://code.visualstudio.com/" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="30" height="30"/><figcaption>VS Code</figcaption></figure></a>
 <a href="https://es.wikipedia.org/wiki/GNU/Linux" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/><figcaption>Linux</figcaption></figure></a>
-</div>
+
 
 
 
@@ -138,5 +140,27 @@ These section speaks about the proyects that I did to learn programming.
 
 <h1>Test</h1>
 <p>This is a test <br> of markdown in git hub</p>
+
+<table>
+    <thead>
+        <tr class="header">
+            <th style="text-align: center;">Fundaments of <br>Programming</th>
+            <th style="text-align: center;">Backend Development <br>Python-Django</th>
+            <th style="text-align: center;">Backend Development <br>Go</th>
+            <th style="text-align: center;">English<br>School</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="odd">
+            <td style="text-align: center;"><a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/media/learningpath/golden_badges/65ca62e1-9ffd-467a-9fc4-cdeb44515b93.jpg" alt="git" width="80" height="80" title="Fundaments of Programming"/><figcaption>Fundaments of <br>Programming</figcaption></figure></a></td>
+            <td style="text-align: center;"><a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/media/learningpath/golden_badges/65ca62e1-9ffd-467a-9fc4-cdeb44515b93.jpg" alt="git" width="80" height="80" title="Fundaments of Programming"/><figcaption>Fundaments of <br>Programming</figcaption></figure></a></td>
+            <td style="text-align: center;"><a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/media/learningpath/golden_badges/65ca62e1-9ffd-467a-9fc4-cdeb44515b93.jpg" alt="git" width="80" height="80" title="Fundaments of Programming"/><figcaption>Fundaments of <br>Programming</figcaption></figure></a></td>
+            <td style="text-align: center;"><a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/media/learningpath/golden_badges/65ca62e1-9ffd-467a-9fc4-cdeb44515b93.jpg" alt="git" width="80" height="80" title="Fundaments of Programming"/><figcaption>Fundaments of <br>Programming</figcaption></figure></a></td>
+        </tr>
+    </tbody>
+    
+</table>
+
+
 <!--
 **juanisimus/juanisimus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
