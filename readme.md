@@ -22,6 +22,7 @@ figcaption {
 
 ### **About me.**
 * * *
+
 Hi, I'm Daniel! I'm a brand new Backend developer looking for an oportunity to apply the knowledge acquired during 2020 mainly in the Platzi platform plus muy previous background as Mechanical Engineer.
 
 * I love to learn new technologies, I have been learning a broad spectrum of knowledge in IT, finding the backend the more suitable thing for me. In this readme file I will show you what I have learned so far.
@@ -33,7 +34,7 @@ Hi, I'm Daniel! I'm a brand new Backend developer looking for an oportunity to a
 
     | Fundaments of   Programming | Backend Development   Python-Django | Backend Development   Go | English    School |
     | :------------------------:|:---------------------------------:|:----------------------:|:--------------:|
-    |<a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/media/learningpath/golden_badges/65ca62e1-9ffd-467a-9fc4-cdeb44515b93.jpg" alt="git" width="80" height="80"/><figcaption>Fundaments of <br>Programming</figcaption></figure></a>|<a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/media/achievements/goldenbadge-python-django-f258962d-564b-4985-8584-ecd3b6156cb7.png" alt="git" width="80" height="80"/><figcaption>Backend Development <br>Python - Django</figcaption></figure></a>|<a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/media/learningpath/golden_badges/8b95de65-f055-4268-8ca5-3582ab7723e2.jpg" alt="git" width="80" height="80"/><figcaption>Backend Development <br>Go</figcaption></figure></a>|<a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/media/learningpath/golden_badges/971bcc36-fda1-4553-a50d-7efc11f07420.jpg" alt="git" width="80" height="80"/><figcaption>English <br>School</figcaption></figure></a>|
+    |<a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/media/learningpath/golden_badges/65ca62e1-9ffd-467a-9fc4-cdeb44515b93.jpg" alt="git" width="80" height="80" title="Fundaments of Programming"/><figcaption>Fundaments of <br>Programming</figcaption></figure></a>|<a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/media/achievements/goldenbadge-python-django-f258962d-564b-4985-8584-ecd3b6156cb7.png" alt="git" width="80" height="80"/><figcaption>Backend Development <br>Python - Django</figcaption></figure></a>|<a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/media/learningpath/golden_badges/8b95de65-f055-4268-8ca5-3582ab7723e2.jpg" alt="git" width="80" height="80"/><figcaption>Backend Development <br>Go</figcaption></figure></a>|<a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/media/learningpath/golden_badges/971bcc36-fda1-4553-a50d-7efc11f07420.jpg" alt="git" width="80" height="80"/><figcaption>English <br>School</figcaption></figure></a>|
 
 
 
@@ -128,11 +129,14 @@ These section speaks about the proyects that I did to learn programming.
 ***
 <div style="display:flex; justify-content: space-around;" class="contact-container">
 <a href="https://www.linkedin.com/in/daniel-alejandro-salazar-mart%C3%ADnez-29388a63/?locale=en_US" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/><figcaption>LinkedIn</figcaption></figure></a>
-<a href=" " target="_blank"><figure><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" alt="Gmail"/></figure></a>
+<a href="mailto:daniel.salazarop@gmail.com" target="_blank"><figure><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" alt="Gmail"/></figure></a>
 <a href="https://twitter.com/Alex_Juanisimo" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/twitter/twitter-original.svg" alt="Twitter" width="50" height="50"/><figcaption>Twitter</figcaption></figure></a>
 <a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/mf-landings/image/isotipoPlatzi-442ccc1186a9806e18c9889cc301ffe1.png" alt="Twitter" width="50" height="50"/><figcaption>Platzi</figcaption></figure></a>
 </div>
 
 
+
+<h1>Test</h1>
+<p>This is a test <br> of markdown in git hub</p>
 <!--
 **juanisimus/juanisimus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
