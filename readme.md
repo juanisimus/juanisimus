@@ -29,8 +29,9 @@ Hi, I'm Daniel! I'm a brand new Backend developer looking for an oportunity to a
 
 * I like to explore IT technologies, a lot of things are new to me but I like to ask or consult some friends or the community to satysfy my curiosity
 
-* I currently have finished four paths in the Platzi Platform. (METER IMAGENES)
+* I currently have finished four paths in the Platzi Platform. Click on the **badges** to be redirected to the website of each path so you can see the curriculum of them
 
+<div align="center">
 <table>
         <thead>
             <tr class="header">
@@ -49,7 +50,7 @@ Hi, I'm Daniel! I'm a brand new Backend developer looking for an oportunity to a
             </tr>
         </tbody>
     </table>
-
+</div>
 
 <!-- | Fundaments of   Programming | Backend Development   Python-Django | Backend Development   Go | English    School |
 | :------------------------:|:---------------------------------:|:----------------------:|:--------------:|
@@ -57,19 +58,20 @@ Hi, I'm Daniel! I'm a brand new Backend developer looking for an oportunity to a
 
 
 
+<!-- * 
     * The career of Fundaments of Programming, where you learn the basics of programming, such as algoritms, networks, command line, regular expressions
 
-    
+        
     * The career of Backend Development with Python-Django, where you learn Python, Git & GitHub, Databases, SQL, Django
-    
-    
+        
+        
     * The career of Backend Development with Go, where you learn Go, Basic Linux Servers Administration
-   
     
+        
     * English School where I keep practicing what I have learnt abroad
-    
-    
-    * Plus I have learn HTML, CSS, and some extra things so I could me able to intepret the structure of a website.
+        
+        
+    * Plus I have learn HTML, CSS, and some extra things so I could me able to intepret the structure of a website. -->
 
 * I also tried to increase my knowledge usin books, documentations, tutorials and even Twitter where you can find sources of information.
 
@@ -79,7 +81,7 @@ Hi, I'm Daniel! I'm a brand new Backend developer looking for an oportunity to a
 
 * Please have a look at my **CV** where you can find more information.
 
-#### In this GitHub repository I will lead you through some proyects that I have done to shead a light about me.
+In this GitHub repository I will lead you through some proyects that I have done to shead a light about me.
 
 ## **Languages and Frameworks**
 * * *
@@ -148,11 +150,11 @@ These section speaks about the proyects that I did to learn programming.
 
 ## **Contact Information**
 ***
-<div style="display:flex; justify-content: space-around;" class="contact-container">
-<a href="https://www.linkedin.com/in/daniel-alejandro-salazar-mart%C3%ADnez-29388a63/?locale=en_US" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/><figcaption>LinkedIn</figcaption></figure></a>
-<a href="mailto:daniel.salazarop@gmail.com" target="_blank"><figure><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" alt="Gmail"/></figure></a>
-<a href="https://twitter.com/Alex_Juanisimo" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/twitter/twitter-original.svg" alt="Twitter" width="50" height="50"/><figcaption>Twitter</figcaption></figure></a>
-<a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/mf-landings/image/isotipoPlatzi-442ccc1186a9806e18c9889cc301ffe1.png" alt="Twitter" width="50" height="50"/><figcaption>Platzi</figcaption></figure></a>
+<div align="center">
+<a href="https://www.linkedin.com/in/daniel-alejandro-salazar-mart%C3%ADnez-29388a63/?locale=en_US" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/></figure></a>
+<a href="mailto:daniel.salazarop@gmail.com" target="_blank"><figure><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" alt="Gmail" title="daniel.salazarop@gmail.com"/></figure></a>
+<a href="https://twitter.com/Alex_Juanisimo" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/twitter/twitter-original.svg" alt="Twitter" width="50" height="50"/></figure></a>
+<a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/mf-landings/image/isotipoPlatzi-442ccc1186a9806e18c9889cc301ffe1.png" alt="Twitter" width="50" height="50"/></figure></a>
 </div>
 
 
