@@ -31,7 +31,7 @@ Hi, I'm Daniel! I'm a brand new Backend developer looking for an oportunity to a
 
 * I currently have finished four paths in the Platzi Platform. (METER IMAGENES)
 
-    <table>
+<table>
         <thead>
             <tr class="header">
                 <th style="text-align: center;">Fundaments of <br>Programming</th>
@@ -51,9 +51,9 @@ Hi, I'm Daniel! I'm a brand new Backend developer looking for an oportunity to a
     </table>
 
 
-    <!-- | Fundaments of   Programming | Backend Development   Python-Django | Backend Development   Go | English    School |
-    | :------------------------:|:---------------------------------:|:----------------------:|:--------------:|
-    |<a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/media/learningpath/golden_badges/65ca62e1-9ffd-467a-9fc4-cdeb44515b93.jpg" alt="git" width="80" height="80" title="Fundaments of Programming"/><figcaption>Fundaments of <br>Programming</figcaption></figure></a>|<a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/media/achievements/goldenbadge-python-django-f258962d-564b-4985-8584-ecd3b6156cb7.png" alt="git" width="80" height="80"/><figcaption>Backend Development <br>Python - Django</figcaption></figure></a>|<a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/media/learningpath/golden_badges/8b95de65-f055-4268-8ca5-3582ab7723e2.jpg" alt="git" width="80" height="80"/><figcaption>Backend Development <br>Go</figcaption></figure></a>|<a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/media/learningpath/golden_badges/971bcc36-fda1-4553-a50d-7efc11f07420.jpg" alt="git" width="80" height="80"/><figcaption>English <br>School</figcaption></figure></a>| -->
+<!-- | Fundaments of   Programming | Backend Development   Python-Django | Backend Development   Go | English    School |
+| :------------------------:|:---------------------------------:|:----------------------:|:--------------:|
+|<a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/media/learningpath/golden_badges/65ca62e1-9ffd-467a-9fc4-cdeb44515b93.jpg" alt="git" width="80" height="80" title="Fundaments of Programming"/><figcaption>Fundaments of <br>Programming</figcaption></figure></a>|<a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/media/achievements/goldenbadge-python-django-f258962d-564b-4985-8584-ecd3b6156cb7.png" alt="git" width="80" height="80"/><figcaption>Backend Development <br>Python - Django</figcaption></figure></a>|<a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/media/learningpath/golden_badges/8b95de65-f055-4268-8ca5-3582ab7723e2.jpg" alt="git" width="80" height="80"/><figcaption>Backend Development <br>Go</figcaption></figure></a>|<a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/media/learningpath/golden_badges/971bcc36-fda1-4553-a50d-7efc11f07420.jpg" alt="git" width="80" height="80"/><figcaption>English <br>School</figcaption></figure></a>| -->
 
 
 
