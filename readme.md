@@ -55,7 +55,7 @@ Hi, I'm Daniel! I'm a brand new Backend developer looking for an oportunity to a
         
     * Plus I have learn HTML, CSS, and some extra things so I could me able to intepret the structure of a website. -->
 
-* I also tried to increase my knowledge usin books, documentations, tutorials and even Twitter where you can find sources of information.
+* I also tried to increase my knowledge using books, documentation, tutorials and even Twitter where you can find sources of information.
 
 * In the middle future I would like to become a Data Scientist, but I'm still need to dominate some technologies.
 
