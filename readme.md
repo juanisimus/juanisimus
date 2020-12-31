@@ -5,11 +5,11 @@
 
 ### **About me.**
 
-Hi, I'm Daniel! I'm a brand new Backend developer looking for an oportunity to apply the knowledge acquired during 2020 mainly in the Platzi platform plus muy previous background as Mechanical Engineer.
+Hi, I'm Daniel! I'm a brand new Backend developer looking for an opportunity to apply the knowledge acquired during 2020 mainly in the Platzi platform plus muy previous background as Mechanical Engineer.
 
 * I love to learn new technologies, I have been learning a broad spectrum of knowledge in IT, finding the backend the more suitable thing for me. In this readme file I will show you what I have learned so far.
 
-* I like to explore IT technologies, a lot of things are new to me but I like to ask or consult some friends or the community to satysfy my curiosity
+* I like to explore IT technologies, a lot of things are new to me but I like to ask or consult some friends or the community to satisfy my curiosity
 
 * I currently have finished four paths in the Platzi Platform. Click on the **badges** to be redirected to the website of each path so you can see the curriculum of them
 
@@ -59,7 +59,7 @@ Hi, I'm Daniel! I'm a brand new Backend developer looking for an oportunity to a
 
 * In the middle future I would like to become a Data Scientist, but I'm still need to dominate some technologies.
 
-* During mi free time I like to practice English, read books, play videogames, travel and play guitar
+* During my spare time I like to practice English, read books, play videogames, travel and play guitar
 
 * Please have a look at my **CV** where you can find more information.
 
