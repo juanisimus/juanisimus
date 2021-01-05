@@ -5,11 +5,11 @@
 
 ### **About me.**
 
-Hi, I'm Daniel! I'm a brand new Backend developer looking for an opportunity to apply the knowledge acquired during 2020 mainly in the Platzi platform plus muy previous background as Mechanical Engineer.
+Hi, I'm Daniel! I'm a fresh Backend developer looking for an opportunity to apply the knowledge acquired during 2020 mainly in the Platzi platform plus muy previous background as Mechanical Engineer.
 
 * I love to learn new technologies, I have been learning a broad spectrum of knowledge in IT, finding the backend the more suitable thing for me. In this readme file I will show you what I have learned so far.
 
-* I like to explore IT technologies, a lot of things are new to me but I like to ask or consult some friends or the community to satisfy my curiosity
+* Usually exploring IT technologies, a lot of things are new to me but I consult with the community or friends immersed in the IT environment to satisfy my curiosity
 
 * I currently have finished four paths in the Platzi Platform. Click on the **badges** to be redirected to the website of each path so you can see the curriculum of them
 
@@ -55,20 +55,20 @@ Hi, I'm Daniel! I'm a brand new Backend developer looking for an opportunity to 
         
     * Plus I have learn HTML, CSS, and some extra things so I could me able to intepret the structure of a website. -->
 
-* I also tried to increase my knowledge using books, documentation, tutorials and even Twitter where you can find sources of information.
+* Complemmenting the knowledge from the platform I try to increase my knowledge reading books, documentation, taking tutorials and even checking posts on Twitter, wherever you can find sources of information.
 
 * In the middle future I would like to become a Data Scientist, but I'm still need to dominate some technologies.
 
-* During my spare time I like to practice English, read books, play videogames, travel and play guitar
+* During my spare time I practice English, read books, play videogames, travel (not during the pandemi) and play guitar.
 
 * Please have a look at my **CV** where you can find more information.
 
-In this GitHub repository I will lead you through some proyects that I have done to shead a light about me.
+In this GitHub repository I will show you  some proyects that I have done to shead a light about me.
 
 ## **Languages and Frameworks**
    
 <div align="center">
-<a href="https://git-scm.com/" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="30" height="30"/><figcaption>Git</figcaption></figure></a>
+<a href="https://git-scm.com/" target="_blank"><figure><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="30" height="30"/><figcaption>Git</figcaption></figure></a>
 <a href="https://github.com/" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="30" height="30"/><figcaption>GitHub</figcaption></figure></a>
 <a href="https://www.python.org" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/><figcaption>Python</figcaption></figure></a>
 <a href="https://www.djangoproject.com/" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="30" height="30"/><figcaption>Django</figcaption></figure></a>
@@ -136,7 +136,7 @@ These section speaks about the proyects that I did to learn programming.
 </div>
 
 
-
+<h3 align="center"><strong>Thank you for visiting my GitHub</strong></h3>
 
 
 
