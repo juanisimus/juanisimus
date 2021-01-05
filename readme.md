@@ -69,19 +69,19 @@ In this GitHub repository I will show you  some proyects that I have done to she
    
 <div align="center">
 <a href="https://git-scm.com/" target="_blank"><figure><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="30" height="30"/><figcaption>Git</figcaption></figure></a>
-<a href="https://github.com/" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="30" height="30"/><figcaption>GitHub</figcaption></figure></a>
-<a href="https://www.python.org" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/><figcaption>Python</figcaption></figure></a>
-<a href="https://www.djangoproject.com/" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="30" height="30"/><figcaption>Django</figcaption></figure></a>
-<a href="https://es.wikipedia.org/wiki/HTML5" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html" width="30" height="30"/><figcaption>HTML</figcaption></figure></a>
-<a href="https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css" width="30" height="30"/><figcaption>CSS</figcaption></figure></a>
+<a href="https://github.com/" target="_blank"><figure><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="30" height="30"/><figcaption>GitHub</figcaption></figure></a>
+<a href="https://www.python.org" target="_blank"><figure><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="30" height="30"/><figcaption>Python</figcaption></figure></a>
+<a href="https://www.djangoproject.com/" target="_blank"><figure><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="30" height="30"/><figcaption>Django</figcaption></figure></a>
+<a href="https://es.wikipedia.org/wiki/HTML5" target="_blank"><figure><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="30" height="30"/><figcaption>HTML</figcaption></figure></a>
+<a href="https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada" target="_blank"><figure><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="30" height="30"/><figcaption>CSS</figcaption></figure></a>
 </div>
 <p></p>
 <div align="center">
-<a href="https://www.mysql.com/" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/><figcaption>MySQL</figcaption></figure></a>
-<a href="https://www.postgresql.org/" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/><figcaption>PostgreSQL</figcaption></figure></a>
-<a href="https://golang.org/" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="30" height="30"/><figcaption>Go</figcaption></figure></a>
-<a href="https://code.visualstudio.com/" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="30" height="30"/><figcaption>VS Code</figcaption></figure></a>
-<a href="https://es.wikipedia.org/wiki/GNU/Linux" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/><figcaption>Linux</figcaption></figure></a>
+<a href="https://www.mysql.com/" target="_blank"><figure><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/><figcaption>MySQL</figcaption></figure></a>
+<a href="https://www.postgresql.org/" target="_blank"><figure><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/><figcaption>PostgreSQL</figcaption></figure></a>
+<a href="https://golang.org/" target="_blank"><figure><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="30" height="30"/><figcaption>Go</figcaption></figure></a>
+<a href="https://code.visualstudio.com/" target="_blank"><figure><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="30" height="30"/><figcaption>VS Code</figcaption></figure></a>
+<a href="https://es.wikipedia.org/wiki/GNU/Linux" target="_blank"><figure><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/><figcaption>Linux</figcaption></figure></a>
 </div>
 
 
@@ -129,9 +129,9 @@ These section speaks about the proyects that I did to learn programming.
 ## **Contact Information**
 
 <div align="center">
-<a href="https://www.linkedin.com/in/daniel-alejandro-salazar-mart%C3%ADnez-29388a63" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" title="LinkedIn Profile"/></figure></a>
+<a href="https://www.linkedin.com/in/daniel-alejandro-salazar-mart%C3%ADnez-29388a63" target="_blank"><figure><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" title="LinkedIn Profile"/></figure></a>
 <a href="mailto:daniel.salazarop@gmail.com" target="_blank" style="padding: 0 10px;"><figure><img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-4-1.png" alt="Gmail" width="70" height="50" title="daniel.salazarop@gmail.com"/></figure></a>
-<a href="https://twitter.com/Alex_Juanisimo" target="_blank"><figure><img src="https://devicons.github.io/devicon/devicon.git/icons/twitter/twitter-original.svg" alt="Twitter" width="50" height="50" title="@Alex_Juanisimo"/></figure></a>
+<a href="https://twitter.com/Alex_Juanisimo" target="_blank"><figure><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="50" height="50" title="@Alex_Juanisimo"/></figure></a>
 <a href="https://platzi.com/p/juanisimus_alex/" target="_blank"><figure><img src="https://static.platzi.com/mf-landings/image/isotipoPlatzi-442ccc1186a9806e18c9889cc301ffe1.png" alt="Platzi" width="50" height="50" title="Platzi Profile"/></figure></a>
 </div>
 
