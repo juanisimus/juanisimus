@@ -107,23 +107,35 @@ In this GitHub repository I will show you  some proyects that I have done to she
 
 ## **Projects**
 
-These section speaks about the proyects that I did to learn programming.
+These section shows the projects made while I was doing the lessons in the Platzi platform.
 
-* FRONTENT
-    * definitivo html
-    * grid
-    * clon website
+* **FRONTENT** (static pages)
+    * Batatabit: This project shows a website with features _Mobile First_ Click the link to see the website or go to the repository to inspect the code
+    * Platzi: This website was made to show the Platzi website using _Grid Layout_ and switching the positions of the elements according to the resolution of the device. click the link to see the website or go to the repository to inspect the code.
+    * Google clon: this website is a clon of the google landing page using HTML and CSS with the aim of practicing the lessons.
 
-* PYTHON
-    * Django
-        * (pildoras, platzigram, djangogirls)
-    * Algoritmos
-    * webscraping 
-        * (scrapy, selenium, david... checar)
-    * Selenium
+* **PYTHON**
+    
+    This segment shows the repositories of the subjects studied while learning python:
 
-* GO
-    * practicas
+    * One of the most important thing of learning to code, besides of the language, is the understanding and application of algortithms, this repository contains the differents algorithms studied with Python
+        * Binary Search
+        * etc
+    
+    * Gatheing data is very important nowadays so a necessary skill is to know how to do web scrapping to collect data from websites, the next repositories shows different ways to do webscraping with Python
+        * Web scrapping with Python
+        * Web scrapping using Selenium
+        * Web scrapping using Scrapy
+
+    * This section contains links to repositories of websites created with **_Django_** using the main features that offers this framework such as forms to sign up users, creation of data bases, creation of apps, reutilization of HTML templates to create different webpages.
+        * Platzigram
+        * Online store
+        * Blog 
+    
+    * Testing is one of the core of every system, here I did a small testing suite made with Selenium, you can check the repository here.
+
+<!-- * GO
+    * practicas -->
 
 
 ## **Contact Information**
