@@ -107,7 +107,7 @@ In this GitHub repository I will show you  some proyects that I have done to she
 
 ## **Projects**
 
-These section shows the projects made while I was doing the lessons in the Platzi platform.
+These section shows the projects made while I was learning in the Platzi platform.
 
 * **FRONTENT** (static pages)
     * Batatabit: This project shows a website with features _Mobile First_ Click the link to see the website or go to the repository to inspect the code
@@ -120,9 +120,13 @@ These section shows the projects made while I was doing the lessons in the Platz
 
     * One of the most important thing of learning to code, besides of the language, is the understanding and application of algortithms, this repository contains the differents algorithms studied with Python
         * Binary Search
-        * etc
+        * Selection Sort
+        * Quicksort
+        * Breath-First Search
+        * Dijkstra's Algorithm
+        * Greedy Algorithms
     
-    * Gatheing data is very important nowadays so a necessary skill is to know how to do web scrapping to collect data from websites, the next repositories shows different ways to do webscraping with Python
+    * Gathering data is extremely important nowadays so a necessary skill is to know how to do web scrapping to collect data from websites, the next repositories shows different ways to do webscraping with Python
         * Web scrapping with Python
         * Web scrapping using Selenium
         * Web scrapping using Scrapy
