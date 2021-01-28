@@ -132,9 +132,9 @@ These section shows the projects made while I was learning in the Platzi platfor
         * [Web scrapping using Scrapy](https://github.com/juanisimus/platzi-intelligence-agency-web)
 
     * This section contains links to repositories of websites created with **_Django_** using the main features that offers this framework such as forms to sign up users, creation of data bases, creation of apps, reutilization of HTML templates to create different webpages, you can check the repositories..
-        * [Platzigram]()
+        * [Platzigram](https://github.com/juanisimus/platzigram)
         <!-- * [Online store]() -->
-        * [Blog]()
+        * [Online webstore](https://github.com/juanisimus/tiendita_pildoras)
     
     * Testing is one of the core of every system, here I did a small testing suite made with Selenium, you can check the repository [here]().
 
